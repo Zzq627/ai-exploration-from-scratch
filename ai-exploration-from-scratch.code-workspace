@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "python",
+    "files.exclude": {
+      "**/__pycache__": true,
+      "**/*.blend1": true
+    },
+    "editor.rulers": [88],
+    "files.encoding": "utf8"
+  },
+  "extensions": {
+    "recommendations": [
+      "ms-python.python",
+      "ms-python.black-formatter",
+      "tobias-z.vscode-blender"
+    ]
+  }
+}
