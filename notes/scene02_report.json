@@ -1,0 +1,28 @@
+{
+  "scene": "scene02_square",
+  "scores": {
+    "object_diversity": {
+      "score": 20,
+      "max": 25,
+      "detail": "3种类型, 44个物体: {'MESH': 42, 'LIGHT': 1, 'CAMERA': 1}"
+    },
+    "color_harmony": {
+      "score": 25,
+      "max": 25,
+      "detail": "通过"
+    },
+    "proportion": {
+      "score": 25,
+      "max": 25,
+      "detail": "通过"
+    },
+    "composition": {
+      "score": 25,
+      "max": 25,
+      "detail": "地面:True 相机:True 灯光:True 天空:True"
+    }
+  },
+  "total": 95,
+  "max": 100,
+  "grade": "优秀 ✅ 场景合格，可输出"
+}
